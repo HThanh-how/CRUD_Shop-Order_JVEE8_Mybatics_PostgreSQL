@@ -10,6 +10,6 @@ import java.io.IOException;
 @WebServlet("/page1")
 public class Page1Servlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        request.getRequestDispatcher("/page1.jsp").forward(request, response);
+        request.getRequestDispatcher("/page1.xhtml").forward(request, response);
     }
 }
