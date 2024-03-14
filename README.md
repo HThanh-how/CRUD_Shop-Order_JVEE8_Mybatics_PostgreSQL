@@ -26,7 +26,7 @@ This is a simple CRUD project that allows you to manage orders in a shop using J
 
 **Installation:**
 
-1. Clone the project to your machine: `git clone https://github.com/your-username/CRUD_Shop-Order_JVEE8_Mybatics_PostgreSQL.git`
+1. Clone the project to your machine: `git clone https://github.com/HThanh-how/CRUD_Shop-Order_JVEE8_Mybatics_PostgreSQL.git`
 2. Install PostgreSQL and create a database `shop_order`
 3. Configure database information in the `application.properties` file
 4. Build the project using Maven: `mvn clean install`
